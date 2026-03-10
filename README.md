@@ -74,4 +74,4 @@ The objective of this project is to demonstrate the practical application of mac
 
 ---
 
-If you want, I can also help you create a **very attractive GitHub README (with badges, icons, and sections used by professional AI/ML repositories)**.
+
