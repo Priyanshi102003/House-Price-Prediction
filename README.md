@@ -28,7 +28,7 @@ House_Price_Prediction
 │
 ├── house_data.csv
 ├── train_model.py
-├── predict_price.py
+├── app.py
 └── house_model.pkl
 ```
 
