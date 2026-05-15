@@ -6,7 +6,7 @@ House Price Prediction is a Machine Learning project developed to estimate prope
 
 The project uses a Linear Regression model to analyze historical housing data and generate accurate price predictions. It demonstrates a complete machine learning workflow including data preprocessing, model training, model serialization, and prediction.
 
----
+
 
 ## Project Objectives
 
@@ -17,7 +17,7 @@ The project uses a Linear Regression model to analyze historical housing data an
 * Save and reuse trained machine learning models
 * Build a simple and efficient prediction system
 
----
+
 
 ## Features
 
@@ -28,7 +28,7 @@ The project uses a Linear Regression model to analyze historical housing data an
 * Simple prediction interface
 * Lightweight and beginner-friendly project structure
 
----
+
 
 ## Technologies Used
 
@@ -38,7 +38,7 @@ The project uses a Linear Regression model to analyze historical housing data an
 * NumPy
 * Joblib
 
----
+
 
 ## Machine Learning Workflow
 
@@ -50,7 +50,7 @@ The project uses a Linear Regression model to analyze historical housing data an
 6. Model Saving
 7. Price Prediction
 
----
+
 
 ## Project Structure
 
@@ -64,7 +64,7 @@ House_Price_Prediction/
 └── README.md
 ```
 
----
+
 
 ## Installation
 
@@ -74,7 +74,7 @@ Install the required dependencies:
 pip install pandas scikit-learn numpy joblib
 ```
 
----
+
 
 ## Train the Model
 
@@ -84,7 +84,7 @@ Run the training script:
 python train_model.py
 ```
 
----
+
 
 ## Predict House Price
 
@@ -94,7 +94,7 @@ Run the prediction script:
 python predict_price.py
 ```
 
----
+
 
 ## Example Output
 
@@ -102,7 +102,7 @@ python predict_price.py
 Predicted House Price: 420000
 ```
 
----
+
 
 ## Model Information
 
@@ -110,7 +110,7 @@ Predicted House Price: 420000
 * Problem Type: Regression
 * Target Variable: House Price
 
----
+
 
 ## Future Improvements
 
@@ -121,7 +121,7 @@ Predicted House Price: 420000
 * Integrate real-time property datasets
 * Build a web-based prediction interface
 
----
+
 
 ## Learning Outcomes
 
@@ -133,7 +133,7 @@ This project helps in understanding:
 * Model Evaluation
 * Machine Learning Model Deployment Basics
 
----
+
 
 ## Author
 
