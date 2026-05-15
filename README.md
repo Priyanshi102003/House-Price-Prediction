@@ -137,7 +137,8 @@ This project helps in understanding:
 
 ## Author
 
-**Your Name Here**
+**Priyanshi**
 
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
-* LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* GitHub: [https://github.com/your-username](https://github.com/Priyanshi102003)
+* LinkedIn: [https://www.linkedin.com/in/priyanshi-530b4a350)
+
